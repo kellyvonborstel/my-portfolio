@@ -1,6 +1,6 @@
-Kelly von Borstel
+Kelly von Borstel — Portfolio
 ==============
 
-Portfolio of my design and web development work
+Samples of my design and web development work
 
 ##[http://kellyvonborstel.com/](http://kellyvonborstel.com/)
