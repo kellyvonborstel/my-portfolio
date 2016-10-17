@@ -1,4 +1,4 @@
-Kelly von Borstel — Portfolio
+Portfolio
 ==============
 
 Samples of my design and web development work
